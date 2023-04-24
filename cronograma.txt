@@ -1,0 +1,10 @@
+# Cronograma
+
+## Python para ciência de dados
+
+
+1 Instalação 
+	- IDE
+	- Python
+	- Jupyter Notebooks
+	- Virtual Environments
