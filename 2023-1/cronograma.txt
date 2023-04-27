@@ -7,4 +7,4 @@
 	- IDE
 	- Python
 	- Jupyter Notebooks
-	- Virtual Environments
+	- Notebook tricks
