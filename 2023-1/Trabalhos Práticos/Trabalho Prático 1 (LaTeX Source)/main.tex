@@ -1,0 +1,110 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1.2in]{geometry}
+\usepackage{hyperref}
+
+\usepackage{tikz}
+  \usetikzlibrary{shapes,arrows,fit,calc,positioning}
+  \tikzset{box/.style={draw, diamond, thick, text centered, minimum height=0.5cm, minimum width=1cm}}
+  \tikzset{line/.style={draw, thick, -latex'}}
+
+\usepackage{listings}
+\usepackage{xcolor}
+
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+\lstdefinestyle{mystyle}{
+    backgroundcolor=\color{backcolour},   
+    commentstyle=\color{codegreen},
+    keywordstyle=\color{magenta},
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{codepurple},
+    basicstyle=\ttfamily\footnotesize,
+    breakatwhitespace=false,         
+    breaklines=true,                 
+    captionpos=b,                    
+    keepspaces=true,                 
+    numbers=left,                    
+    numbersep=5pt,                  
+    showspaces=false,                
+    showstringspaces=false,
+    showtabs=false,                  
+    tabsize=2
+}
+
+\lstset{style=mystyle}
+
+
+\usepackage{tikz}
+\usetikzlibrary{positioning}
+
+\usepackage{natbib}
+\usepackage{graphicx}
+\usepackage{amsmath}
+
+\title{\vspace{-2 cm}Python para Ciência de Dados \\ Trabalho Prático}
+\author{Prof. Rodrigo Silva}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+%\section*{Instruções}
+
+%Cada aluno deve submeter na Plataforma Moodle um arquivo PDF com o nome no formato, \textit{seu\_nome\_intropython.pdf}, contendo:
+%\begin{itemize}
+%    \item Nome;
+%    \item Número de Matrícula;
+%    \item Repostas das questões teóricas; e
+%    \item Link para o repositório do GitHub que contém o código da atividade prática. 
+%\end{itemize}
+
+\section{Leitura Recomendada }
+
+\begin{itemize}
+    \item VanderPlas, Jake. Python data science handbook: Essential tools for working with data. O'Reilly Media, Inc., 2016. Disponível em \url{https://jakevdp.github.io/PythonDataScienceHandbook/}
+\end{itemize}
+
+
+\section{Atividades Prática}
+
+\begin{enumerate}
+    \item  Apresentar e resolver algum aplicação de ciência de dados com as seguintes características.
+    \begin{enumerate}
+        \item A aplicação deve conter um problema de regressão ou de classificação.
+        \item A aplicação deve envolver pelo menos duas fontes de dados.
+    \end{enumerate}
+\end{enumerate}
+
+\section{Entregável}
+
+\begin{enumerate}
+    \item  O aluno deverá produzir um notebook python que apresente com os seguintes requisitos mínimos: 
+    \begin{enumerate}
+        \item Carregamento das fontes de dados.
+        \item Fusão das fontes de dados (\texttt{merge} e/ou \texttt{join})
+        \item Análise descritiva dos dados (Média, Max, Min)
+        \item Análise gráfica dos dados
+        \item Treinamento, ajuste fino e teste de modelos de aprendizado de máquina. 
+    \end{enumerate}
+    Cada uma destas etapas deve ser comentada (no próprio notebook com markdown) com uma descrição do que levou à escolha das técnicas e quais as conclusões das etapas.
+\end{enumerate}
+
+\section{Entrega}
+
+\begin{itemize}
+    \item O trabalho deve ser \textcolor{red}{finalizado até o dia 18/06}. 
+    \item Os alunos devem encaminhar pelo moodle apenas o link para o notebook que deve estar disponível e público em um repositório no GitHub.
+\end{itemize}
+ 
+
+
+
+%\bibliographystyle{plain}
+%\bibliography{references}
+\end{document}
+
