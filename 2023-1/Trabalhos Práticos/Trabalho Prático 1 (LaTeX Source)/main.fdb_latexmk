@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1685653810 "c:/Users/rcpsi/source/repos/Python_For_Data_Science/2023-1/Trabalhos Práticos/Trabalho Prático 1 (LaTeX Source)/main.tex" "main.pdf" "main" 1685653816 0
-  "c:/Users/rcpsi/source/repos/Python_For_Data_Science/2023-1/Trabalhos Práticos/Trabalho Prático 1 (LaTeX Source)/main.tex" 1685653801 3494 c9f37113b93ce1e51a0e0542560360e4 ""
+["pdflatex"] 1686086138 "c:/Users/rcpsi/source/repos/Python_For_Data_Science/2023-1/Trabalhos Práticos/Trabalho Prático 1 (LaTeX Source)/main.tex" "main.pdf" "main" 1686086141 0
+  "c:/Users/rcpsi/source/repos/Python_For_Data_Science/2023-1/Trabalhos Práticos/Trabalho Prático 1 (LaTeX Source)/main.tex" 1686086139 3494 d714a8b817dea23a055372a53c277e62 ""
   "c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1679353348 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1679354266 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1679353891 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -166,9 +166,9 @@
   "c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1679359898 4662804 131178ccc9b2f4741a821427ce79dce1 ""
   "c:/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1679360027 7883451 1906458788776f148e040852b775af01 ""
   "c:/texlive/2022/texmf.cnf" 1679359856 713 e69b156964470283e0530f5060668171 ""
-  "main.aux" 1685653816 998 63886f58f6431d6992709706ad892f8f "pdflatex"
-  "main.out" 1685653816 457 f8a792bbdac8c02fb71664d86d8d7791 "pdflatex"
-  "main.tex" 1685653801 3494 c9f37113b93ce1e51a0e0542560360e4 ""
+  "main.aux" 1686086141 998 63886f58f6431d6992709706ad892f8f "pdflatex"
+  "main.out" 1686086141 457 f8a792bbdac8c02fb71664d86d8d7791 "pdflatex"
+  "main.tex" 1686086139 3494 d714a8b817dea23a055372a53c277e62 ""
   (generated)
   "main.aux"
   "main.log"
