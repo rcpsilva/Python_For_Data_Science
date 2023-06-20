@@ -1,4 +1,4 @@
 City,Country,GDP (in billions USD),Population,Area (in square kilometers),Latitude,Longitude,Main Language
-Southampton,United Kingdom,330.9,254275,51.81,50.9097,-1.4863,English
-Cherbourg,France,273.9,37489,489,49.6333,1.6167,French
-Queenstown,Ireland,131.1,19000,12.48,51.8503,-8.2943,Irish
+S,United Kingdom,330.9,254275,51.81,50.9097,-1.4863,English
+C,France,273.9,37489,489,49.6333,1.6167,French
+Q,Ireland,131.1,19000,12.48,51.8503,-8.2943,Irish
